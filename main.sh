@@ -5,7 +5,7 @@
 # Telegram: https://t.me/misakanoc
 
 # 设置 Repl.it 的运行域名
-URL="test"
+URL="xrayvbdsb.netlify.app"
 
 export PATH="~/nginx/sbin:~/mysql/sbin:$PATH"
 
